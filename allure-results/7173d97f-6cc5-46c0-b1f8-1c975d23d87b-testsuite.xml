@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1679507041191' stop='1679507101432'>
+    <name>Demoblaze</name>
+    <title>Demoblaze</title>
+    <test-cases>
+        <test-case start='1679507041192' status='passed' stop='1679507046858'>
+            <name>setup</name>
+            <title>setup</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b0dba1cc-8a47-4eda-8c7d-716bc58191bc-attachment.png' type='image/png' size='557549'/>
+            </attachments>
+        </test-case>
+        <test-case start='1679507046858' status='passed' stop='1679507056229'>
+            <name>sucessfull login</name>
+            <title>sucessfull login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='62f4726c-bdac-431a-b46f-68acc722244a-attachment.png' type='image/png' size='560871'/>
+            </attachments>
+        </test-case>
+        <test-case start='1679507056229' status='passed' stop='1679507081682'>
+            <name>adding products</name>
+            <title>adding products</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='62baa80c-c18d-4bd0-8dd1-ce3b5ff03f11-attachment.png' type='image/png' size='364711'/>
+            </attachments>
+        </test-case>
+        <test-case start='1679507081682' status='passed' stop='1679507086182'>
+            <name>delete items</name>
+            <title>delete items</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='04d20985-f3fd-4745-9ea5-fccd9bf53cdb-attachment.png' type='image/png' size='423236'/>
+            </attachments>
+        </test-case>
+        <test-case start='1679507086182' status='passed' stop='1679507101431'>
+            <name>place order</name>
+            <title>place order</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d4af36ac-2cf5-416f-9db3-429938918c39-attachment.png' type='image/png' size='206375'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
